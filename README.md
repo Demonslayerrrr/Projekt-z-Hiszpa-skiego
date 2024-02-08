@@ -1,1 +1,1 @@
-jebać czarnych
+lubię hiszpański
