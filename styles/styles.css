@@ -2,6 +2,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  height: 100vh;
 }
 
 h1 {
@@ -12,7 +13,7 @@ h1 {
 }
 
 h1:hover {
-  background-color: aqua;
+  background-color: red;
   transition: 1s;
   border-radius: 60%;
   scale: 1.5;
