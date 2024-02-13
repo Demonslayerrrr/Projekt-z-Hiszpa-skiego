@@ -1,0 +1,19 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  padding: 100px;
+  background-color: antiquewhite;
+  border-radius: 10px;
+  transition: 1s;
+}
+
+h1:hover {
+  background-color: aqua;
+  transition: 1s;
+  border-radius: 60%;
+  scale: 1.5;
+}
