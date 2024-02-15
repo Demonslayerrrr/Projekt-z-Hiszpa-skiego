@@ -1,3 +1,3 @@
-document.addEventListener("DOMContentLoaded", function () {
-  alert("Bienvenidos a la página sobre Varsovia!");
-});
+// document.addEventListener("DOMContentLoaded", function () {
+//   alert("Bienvenidos a la página sobre Varsovia!");
+// });
